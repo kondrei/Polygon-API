@@ -1,0 +1,28 @@
+{
+    "posts": [
+        {
+            "id": 0,
+            "title": "briliant",
+            "body": "lorsdflkmsak ulaF AS",
+            "author": "vasile"
+        },
+        {
+            "id": 1,
+            "title": "altceva stufos",
+            "body": "un titlu",
+            "author": "vasile"
+        },
+        {
+            "id": 2,
+            "title": "Senzatonal",
+            "body": "alt continut",
+            "author": "andrei"
+        },
+        {
+            "id": 3,
+            "title": "inca un post",
+            "body": "inca ceva",
+            "author": "andrei"
+        }
+    ]
+}
