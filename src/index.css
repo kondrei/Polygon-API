@@ -37,3 +37,19 @@ html {
 .blog-preview:hover {
     box-shadow: 1px 3px 5px rgb(212, 211, 211);
 }
+
+.blog-preview a {
+    text-decoration: none;
+    color: inherit;
+}
+
+form,
+input,
+label,
+select {
+    display: block;
+    width: 100%;
+    height: 2rem;
+    margin: 10px 0;
+    box-sizing: border-box;
+}

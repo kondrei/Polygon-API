@@ -1,28 +1,22 @@
 {
-    "posts": [
-        {
-            "id": 0,
-            "title": "briliant",
-            "body": "lorsdflkmsak ulaF AS",
-            "author": "vasile"
-        },
-        {
-            "id": 1,
-            "title": "altceva stufos",
-            "body": "un titlu",
-            "author": "vasile"
-        },
-        {
-            "id": 2,
-            "title": "Senzatonal",
-            "body": "alt continut",
-            "author": "andrei"
-        },
-        {
-            "id": 3,
-            "title": "inca un post",
-            "body": "inca ceva",
-            "author": "andrei"
-        }
-    ]
+  "posts": [
+    {
+      "id": 2,
+      "title": "Senzatonal",
+      "body": "Quisque tincidunt suscipit lacinia. Vivamus at velit dui. Nulla ut quam vitae tortor elementum scelerisque. Duis condimentum magna vitae enim iaculis rhoncus. Vestibulum in ullamcorper orci, nec pellentesque leo. Aliquam erat volutpat. Duis fringilla auctor luctus. Cras vel ultrices lacus, vel consectetur diam.",
+      "author": "andrei"
+    },
+    {
+      "id": 3,
+      "title": "inca un post",
+      "body": "Quisque pellentesque nunc diam, quis varius urna rhoncus non. Donec elementum urna sit amet lorem ultrices dapibus non quis erat. Curabitur vel nisi placerat odio condimentum malesuada. Donec ligula nulla, ornare id commodo ac, iaculis sed purus. In ultrices diam ornare, sagittis justo at, lacinia lorem. Pellentesque tempus libero eget vehicula faucibus. Maecenas in lectus ex.",
+      "author": "andrei"
+    },
+    {
+      "title": "Introducing FormKit: A Vue 3 form building framework",
+      "body": " Web forms are the connective tissue of the internet. Without them people can’t request their health...",
+      "author": "andrei",
+      "id": 5
+    }
+  ]
 }
